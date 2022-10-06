@@ -1,0 +1,10 @@
+export const lightshowEnabled = false;
+export const neatEnabled = false;
+export const guidedVideosEnabled = false;
+export const otherVideosEnabled = false;
+export const liveVideoEnabled = false; // countdownEnabled must be set to true to activate
+export const countdownEnabled = true;
+export const machinesEnabled = false;
+export const portalsEnabled = false;
+export const danceEmotesEnabled = false;
+export const buildingEnabled = true;
